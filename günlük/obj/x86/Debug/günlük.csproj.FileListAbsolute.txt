@@ -1,0 +1,12 @@
+c:\users\gold teknology\documents\visual studio 2010\Projects\günlük\günlük\bin\Debug\günlük.exe
+c:\users\gold teknology\documents\visual studio 2010\Projects\günlük\günlük\bin\Debug\günlük.pdb
+c:\users\gold teknology\documents\visual studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.Form1.resources
+c:\users\gold teknology\documents\visual studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.Properties.Resources.resources
+c:\users\gold teknology\documents\visual studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.csproj.GenerateResource.Cache
+c:\users\gold teknology\documents\visual studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.exe
+c:\users\gold teknology\documents\visual studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.pdb
+C:\Users\GOLD TEKNOLOGY\documents\visual studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.csprojResolveAssemblyReference.cache
+C:\Users\GOLD TEKNOLOGY\documents\visual studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.Form2.resources
+C:\Users\GOLD TEKNOLOGY\documents\visual studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.Form3.resources
+C:\Users\Main\Documents\Visual Studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.exe
+C:\Users\Main\Documents\Visual Studio 2010\Projects\günlük\günlük\obj\x86\Debug\günlük.pdb
